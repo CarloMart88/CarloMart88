@@ -1,4 +1,4 @@
-# Hi, I'm Carlo 👋
+# 🧑‍💻🚀 Hi, I'm Carlo
 
 I'm a full-stack developer trained through the Boolean bootcamp, with a strong focus on backend development and a passion for clean, accessible interfaces.
 
@@ -49,7 +49,7 @@ Here's a quick overview of my commit activity across key projects:
 - **Express WebApp**: 32 commits
 - **React WebApp**: 28 commits
 
-![Commits per Repository](./graphics.png)
+<img src="./graphics.png" width="500"/>
 
 ---
 
