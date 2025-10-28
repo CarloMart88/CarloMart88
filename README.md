@@ -1,6 +1,6 @@
 # 🧑‍💻🚀 Hi, I'm Carlo
 
-I'm a full-stack developer trained through the Boolean bootcamp, with a strong focus on backend development and a passion for clean, accessible interfaces.
+I'm a full-stack developer trained through the Boolean Academy, with a strong focus on development and a passion for clean, accessible interfaces.
 
 ---
 
@@ -15,19 +15,33 @@ I'm a full-stack developer trained through the Boolean bootcamp, with a strong f
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![Terminal](https://img.shields.io/badge/-Terminal-000000?style=flat&logo=gnubash&logoColor=white)
 
 ---
 
 ## 🚀 Projects
 
-Here are some of the projects I've worked on during my journey:
+Throughout my journey, I've built projects ranging from backend logic with Express to dynamic interfaces in React, and recently started exploring C programming. Here's a curated selection:
 
-- 🎮 [**React Use State**](https://github.com/CarloMart88/react-use-state) — A focused exercise on managing state in React using `useState`, with dynamic UI updates
-- 🛒 [**Express WebApp**](https://github.com/CarloMart88/webapp-express) — A basic Node.js + Express application showcasing routing, middleware, and server-side logic
-- 🧾 [**React WebApp**](https://github.com/CarloMart88/webapp-react) — A simple React interface with component-based structure and interactive elements
-- 🦸 [**React DC Comics**](https://github.com/CarloMart88/react-dc-comics) — A React-based frontend that displays DC Comics characters using dynamic routing and reusable components
-- 📚 [**React Post Form**](https://github.com/CarloMart88/react-post-form) — A React form-handling demo with controlled inputs and POST request logic
+### ⚛️ Web & React Projects
+
+- 🎮 [**React Use State**](https://github.com/CarloMart88/react-use-state) — A focused exercise on managing state in React using `useState`, with dynamic UI updates  
+- 🧾 [**React WebApp**](https://github.com/CarloMart88/webapp-react) — A simple React interface with modular components and user interaction  
+- 📚 [**React Post Form**](https://github.com/CarloMart88/react-post-form) — A React form demo with controlled inputs and POST request logic  
+- 🦸 [**React DC Comics**](https://github.com/CarloMart88/react-dc-comics) — A React frontend displaying DC Comics characters with dynamic routing and reusable components  
+
+### 🔧 Backend & Server-Side
+
+- 🛒 [**Express WebApp**](https://github.com/CarloMart88/webapp-express) — A Node.js + Express application showcasing routing, middleware, and server-side logic  
+
+### 🧪 C Language Projects
+
+- ⚙️ [**Terzo Progetto**](https://github.com/CarloMart88/TerzoProgetto) — A C project focused on functions, keyboard input, and flow control  
+- 🧠 [**Quarto Progetto**](https://github.com/CarloMart88/QuartoProgetto) — A C exercise exploring logic, data structures, and terminal-based flow management  
+
 
 > 🔍 You can explore more in my [GitHub repositories](https://github.com/CarloMart88?tab=repositories)
 
