@@ -63,7 +63,7 @@ Here's a quick overview of my commit activity across key projects:
 - **Express WebApp**: 32 commits
 - **React WebApp**: 28 commits
 
-<img src="./graphics.png" width="300"/>
+
 
 ---
 
