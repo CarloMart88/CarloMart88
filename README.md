@@ -1,72 +1,65 @@
-# 🧑‍💻🚀 Hi, I'm Carlo
+# Hi, I'm Carlo Martino
 
-I'm a full-stack developer trained through the Boolean Academy, with a strong focus on development and a passion for clean, accessible interfaces.
+**Full Stack Web Developer** with a background in project management, international trade and team leadership.
+
+After years in export management and business operations across Europe, I transitioned into software development — combining analytical thinking and business acumen with modern web technologies.
+
+Trained at **Boolean Academy** (Web Development + TypeScript/Advanced React specialization).
 
 ---
 
-## 🛠 Tech Stack & Skills
+## Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+**Frontend**
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Tools & Methods**
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-![Terminal](https://img.shields.io/badge/-Terminal-000000?style=flat&logo=gnubash&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## Featured Projects
 
-Throughout my journey, I've built projects ranging from backend logic with Express to dynamic interfaces in React, and recently started exploring C programming. Here's a curated selection:
-
-### ⚛️ Web & React Projects
-
-- 🎮 [**React Use State**](https://github.com/CarloMart88/react-use-state) — A focused exercise on managing state in React using `useState`, with dynamic UI updates  
-- 🧾 [**React WebApp**](https://github.com/CarloMart88/webapp-react) — A simple React interface with modular components and user interaction  
-- 📚 [**React Post Form**](https://github.com/CarloMart88/react-post-form) — A React form demo with controlled inputs and POST request logic  
-- 🦸 [**React DC Comics**](https://github.com/CarloMart88/react-dc-comics) — A React frontend displaying DC Comics characters with dynamic routing and reusable components  
-
-### 🔧 Backend & Server-Side
-
-- 🛒 [**Express WebApp**](https://github.com/CarloMart88/webapp-express) — A Node.js + Express application showcasing routing, middleware, and server-side logic  
-
-### 🧪 C Language Projects
-
-- ⚙️ [**Terzo Progetto**](https://github.com/CarloMart88/TerzoProgetto) — A C project focused on functions, keyboard input, and flow control  
-- 🧠 [**Quarto Progetto**](https://github.com/CarloMart88/QuartoProgetto) — A C exercise exploring logic, data structures, and terminal-based flow management  
-
-
-> 🔍 You can explore more in my [GitHub repositories](https://github.com/CarloMart88?tab=repositories)
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Product Comparator SPA**](https://github.com/CarloMart88/progetto-finale-spec-frontend-front) | Browse, filter, compare and bookmark products | React, TypeScript, Vite |
+| [**Task Manager**](https://github.com/CarloMart88/ex-react-task-manager) | Advanced task app with CRUD, filters, sorting and debounced search | React, Context API, useReducer |
+| [**Movie Catalog**](https://github.com/CarloMart88/webapp-react) | Film database with reviews, detail pages and routing | React, Vite, Axios, Bootstrap |
+| [**Movie API**](https://github.com/CarloMart88/webapp-express) | RESTful API for movies and reviews | Node.js, Express, MySQL |
+| [**Blog API**](https://github.com/CarloMart88/express-blog-api-crud) | Full CRUD REST API with validation and error handling | Node.js, Express |
+| [**Blog SQL**](https://github.com/CarloMart88/express-blog-sql) | Blog API with MySQL integration and tag relations | Node.js, Express, MySQL |
 
 ---
 
-## 🎯 Currently
+## GitHub Stats
 
-Preparing for a major exam — expect focused commits and deep dives into backend logic, React components, and CSS refinement.
+![Carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarloMart88&show_icons=true&theme=default&hide_border=true&count_private=true)
 
----
-
-## 📊 Repository Commit Stats
-
-Here's a quick overview of my commit activity across key projects:
-
-- **React DC Comics**: 51 commits
-- **React Use State**: 45 commits
-- **React Post Form**: 37 commits
-- **Express WebApp**: 32 commits
-- **React WebApp**: 28 commits
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarloMart88&layout=compact&hide_border=true)
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-Feel free to reach out or follow my journey here on GitHub. I'm always open to learning, building, and collaborating!
+[![LinkedIn](https://img.shields.io/badge/-Carlo%20Martino-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlomartino-00a6971b6/)
+[![Email](https://img.shields.io/badge/-carlo.martino1988@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:carlo.martino1988@gmail.com)
+[![GitHub](https://img.shields.io/badge/-CarloMart88-181717?style=flat&logo=github&logoColor=white)](https://github.com/CarloMart88)
