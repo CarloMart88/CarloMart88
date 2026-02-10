@@ -41,6 +41,7 @@ Trained at **Boolean Academy** (Web Development + TypeScript/Advanced React spec
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [**Job Tracker**](https://github.com/CarloMart88/job-tracker) | Full-stack job application tracker with dashboard, Kanban board and email agent | React, TypeScript, Node.js, Express, MySQL |
 | [**Product Comparator SPA**](https://github.com/CarloMart88/progetto-finale-spec-frontend-front) | Browse, filter, compare and bookmark products | React, TypeScript, Vite |
 | [**Task Manager**](https://github.com/CarloMart88/ex-react-task-manager) | Advanced task app with CRUD, filters, sorting and debounced search | React, Context API, useReducer |
 | [**Movie Catalog**](https://github.com/CarloMart88/webapp-react) | Film database with reviews, detail pages and routing | React, Vite, Axios, Bootstrap |
